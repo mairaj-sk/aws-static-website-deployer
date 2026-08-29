@@ -339,38 +339,6 @@ After deployment, verify:
 
 ---
 
-# 📸 Project Screenshots
-
-Screenshots can be added to the repository to demonstrate the actual implementation.
-
-## Deployment Terminal
-
-```markdown
-![Deployment Terminal](screenshots/terminal-deployment.png)
-```
-
-## S3 Bucket
-
-```markdown
-![S3 Bucket](screenshots/s3-bucket.png)
-```
-
-## Uploaded Website Files
-
-```markdown
-![Uploaded Files](screenshots/uploaded-files.png)
-```
-
-## Live Website
-
-```markdown
-![Live Website](screenshots/website.png)
-```
-
-> Make sure screenshots do not expose AWS access keys, secret keys, credentials, private information, or other sensitive configuration.
-
----
-
 # 🔐 Security
 
 Security is an important consideration when automating AWS deployments.
